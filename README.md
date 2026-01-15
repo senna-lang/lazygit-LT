@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to [Slidev](https://github.com/slidevjs/slidev)
 
 To start the slide show:
 
@@ -9,4 +9,5 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
 # lazygit-LT
